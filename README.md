@@ -14,6 +14,11 @@ There are 3 types of data involved with the Widgets add-on:
 * Widget Areas: Essentially a group of instances, which go in a certain place like "footer" or "sidebar"
 * Widget Instances: A type of widget, with specific data and assigned to an "area"
 
+## See it in action
+
+<iframe src="http://blip.tv/play/g7lmgfj0GgI.html?p=1" width="550" height="443" frameborder="0" allowfullscreen></iframe>
+<embed type="application/x-shockwave-flash" src="http://a.blip.tv/api.swf#g7lmgfj0GgI" style="display:none"></embed>
+
 ## Usage
 
 To output a widget area - and therefor all of the instances associated, you can simply use the exp:area tag with the area slug mentioned.
